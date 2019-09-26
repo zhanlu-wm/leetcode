@@ -30,12 +30,18 @@ package wm.zhanlu.learning.leetcode;
  */
 public class MySqrt {
 
-    /**
-     * 二分查找
-     *
-     * @param x
-     * @return
-     */
+    public int mySqrt2(int x) {
+        // TODO 其他方法的实现
+        return 0;
+    }
+
+
+        /**
+         * 二分查找
+         *
+         * @param x
+         * @return
+         */
     public int mySqrt(int x) {
 
         long left = 0;
